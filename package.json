@@ -13,6 +13,12 @@
     "build": "quasar build"
   },
   "dependencies": {
+    "@babel/plugin-transform-class-properties": "^7.24.7",
+    "@babel/plugin-transform-nullish-coalescing-operator": "^7.24.7",
+    "@babel/plugin-transform-optional-chaining": "^7.24.8",
+    "@eslint/config-array": "^0.17.0",
+    "@eslint/object-schema": "^2.1.4",
+    "@quasar/app": "^3.3.3",
     "@quasar/extras": "^1.16.4",
     "quasar": "^2.8.0",
     "vue": "^3.2.29",
